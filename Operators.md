@@ -1,4 +1,4 @@
-Here’s a detailed guide to **JavaScript operators**, including their types, usage, and examples.
+Here’s a detailed guide to **JavaScript operators**, including their types, usage, and examples. By Aryan Maurya...
 
 ---
 
