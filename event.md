@@ -1,4 +1,4 @@
-By # Aryan Maurya
+# By Aryan Maurya
 ---
 
 # JavaScript Events: Full Notes and Event Names
